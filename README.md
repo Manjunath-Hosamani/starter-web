@@ -16,6 +16,8 @@ Used for wen designing applications
 
 #How to contribute
 
+Please fork this repo and then issue PR for review.
+
 Xyzzz
 
 #new section
