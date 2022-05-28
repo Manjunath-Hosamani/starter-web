@@ -2,7 +2,9 @@
 
 This repository is for showing how Git and GitHub work
 
-##Introduction
+#Introduction
+
+This chapter gives info about web design
 
 ## Purpose
 
