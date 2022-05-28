@@ -6,10 +6,12 @@ This repository is for showing how Git and GitHub work
 
 This chapter gives info about web design
 
-## Purpose
+# Purpose
 
 Sample website with plenty of files for demos
 
-##Deployment
+#Deployment
+
+Used for wen designing applications
 
 ##How to contribute
