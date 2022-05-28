@@ -21,3 +21,7 @@ Xyzzz
 #new section
 
 abc
+
+#Copyright
+
+git.training
