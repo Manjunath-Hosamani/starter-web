@@ -27,4 +27,4 @@ abc
 
 #Copyright
 
-git.training
+git.training, all rights reserved.
